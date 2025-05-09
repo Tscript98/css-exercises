@@ -14,18 +14,24 @@ body {
   background: #e3f4ff;
   font-size: 16px;
   padding: 8px;
+  margin: 8px 0;
 }
 
 .content {
   background: #e3f4ff;
   padding: 16px 8px;
+  margin: 8px 0;
 }
 
 .button-container {
   background: #e3f4ff;
+  text-align: center;
+  padding: 8px;
+  margin: 8px 0;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  align-content: center;
 }
