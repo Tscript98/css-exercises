@@ -15,6 +15,14 @@
   align-content: center;
 }
 
+.left-links{
+
+}
+
+.right-links{
+  
+}
+
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
@@ -26,5 +34,4 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-  
 }
