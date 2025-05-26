@@ -15,14 +15,17 @@ img {
 
 .images{
   display: flex;
+  justify-content: center;
+  gap: 52px;
 }
 
 #one, #two, #three, #four{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   flex-direction: column;
   text-align: center;
+  width: 200px;
 }
 
 /* do not edit this footer */
