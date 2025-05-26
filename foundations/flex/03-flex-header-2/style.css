@@ -32,13 +32,12 @@ body {
   font-style: italic;
 }
 
-.left-side{
-
+.left-side, .right-side{
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
-.right-side{
-
-}
 
 button {
   border: none;
@@ -56,4 +55,8 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
 }
