@@ -19,6 +19,8 @@ ul{
   color: white;
   font-size: 32px;
   font-weight: 900;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 .footer {
