@@ -37,6 +37,12 @@ ul{
   list-style: none;
 }
 
+.header,
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
+
 .footer{
   background-color: #eeeeee;
 }
