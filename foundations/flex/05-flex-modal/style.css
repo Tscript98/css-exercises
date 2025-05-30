@@ -23,6 +23,10 @@ body {
   padding: 12px;
 }
 
+.upper {
+  
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
@@ -67,4 +71,8 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.text{
+  margin: 10px;
 }
