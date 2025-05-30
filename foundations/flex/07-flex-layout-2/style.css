@@ -25,6 +25,7 @@ ul{
 
 .container{
   padding: 48px;
+  flex-wrap: wrap;
 }
 
 .footer {
