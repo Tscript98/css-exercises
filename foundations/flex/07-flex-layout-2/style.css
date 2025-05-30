@@ -9,6 +9,10 @@ a{
   color: white;
 }
 
+ul{
+  list-style: none;
+}
+
 .header {
   height: 72px;
   background: darkmagenta;
