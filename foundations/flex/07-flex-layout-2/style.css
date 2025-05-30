@@ -23,6 +23,10 @@ ul{
   align-items: center;
 }
 
+.content{
+  flex: 1;
+}
+
 .container{
   padding: 48px;
   flex-wrap: wrap;
