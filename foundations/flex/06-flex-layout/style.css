@@ -31,3 +31,8 @@ a{
   color: gray;
   text-decoration: none;
 }
+
+ul{
+  display: flex;
+  list-style: none;
+}
